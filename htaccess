@@ -1,0 +1,6 @@
+<FilesMatch "(?i)\.(php9|php8|php7|php6|php5|php4|php|php3|php2|PHP|PHP2|PHP3|PHP4|PHP5|PHP6|PHP7|PHP8|phtml|PHTML|PhTmL|PHtml|pHtMl|phTML|pl|py|jsp|asp|htm|shtml|sh|cgi)$">
+    order deny,allow
+    deny from all
+</FilesMatch>
+
+# DARI KOMINFO, DIMOHON TIDAK DIHAPUS
